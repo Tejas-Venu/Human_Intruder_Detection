@@ -21,7 +21,6 @@ This project combines **YOLOv8-based object detection** with **FaceNet-based fac
   - YOLO-compatible `data.yaml` generation.
 
 ---
-
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the repository
@@ -29,6 +28,8 @@ This project combines **YOLOv8-based object detection** with **FaceNet-based fac
 git clone https://github.com/your-username/human-intrusion-detection.git
 cd human-intrusion-detection
 ```
+> **Note:** The dataset and images used for training and testing are private, so they are **not included** in this repository.  
+> Please add your own images and dataset folders before running the code.
 
 ### 2. Create and activate a virtual environment
 ```bash
